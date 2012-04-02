@@ -1,0 +1,4 @@
+depend:EXT_gzstream EXT_libcurl EXT_expat
+CFLAGS:-Wall -g
+LDFLAGS:
+
